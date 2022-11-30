@@ -4,11 +4,11 @@ Even a few decades ago, it would have been impossible to foresee the widespread 
 
 ### data
 
-    Github folder Link: https://github.com/Indicwiki-Rivers/Rivers_wiki/tree/main/curDir/data
+    Github folder Link: https://github.com/aparna1606/Deepfake-Detection-using-Advanced-Convnets2d/code
     
 ### code
 
-    Github folder Link: https://github.com/Indicwiki-Rivers/Rivers_wiki/tree/main/curDir/code
+    Github folder Link: https://github.com/aparna1606/Deepfake-Detection-using-Advanced-Convnets2d/data
     The files in this folder are:
       capture_img.ipynb → Code to capture images in videos by splitting it into frames
       deepfake_detection1.ipynb → Code to detect deepfake videos using InceptionResNetV2 algorithm
